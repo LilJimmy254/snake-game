@@ -1,4 +1,4 @@
-package com.rmoralf.snake.domain.game
+package com.JamesKariukiNderi.snake.domain.game
 
 object GraphicsVersion {
     const val V1 = 1

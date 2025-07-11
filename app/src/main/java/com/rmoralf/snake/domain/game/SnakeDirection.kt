@@ -1,4 +1,4 @@
-package com.rmoralf.snake.domain.game
+package com.JamesKariukiNderi.snake.domain.game
 
 object SnakeDirection {
     const val Up = 1

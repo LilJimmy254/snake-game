@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.ui.theme
+package com.JamesKariukiNderi.snake.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.rmoralf.snake.core.utils
+package com.JamesKariukiNderi.snake.core.utils
 
 object Constants {
     //App

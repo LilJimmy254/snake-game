@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.game.components
+package com.JamesKariukiNderi.snake.presentation.game.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

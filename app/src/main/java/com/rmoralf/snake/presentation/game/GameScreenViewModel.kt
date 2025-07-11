@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.game
+package com.JamesKariukiNderi.snake.presentation.game
 
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.SavedStateHandle

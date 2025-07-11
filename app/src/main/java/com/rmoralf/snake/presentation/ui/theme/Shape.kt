@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.ui.theme
+package com.JamesKariukiNderi.snake.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

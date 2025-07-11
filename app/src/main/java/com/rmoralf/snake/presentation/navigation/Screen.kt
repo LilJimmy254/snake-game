@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.navigation
+package com.JamesKariukiNderi.snake.presentation.navigation
 
 enum class Screen(val route: String) {
     MENU("menu"),

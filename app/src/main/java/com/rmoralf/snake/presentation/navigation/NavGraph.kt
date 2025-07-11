@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.navigation
+package com.JamesKariukiNderi.snake.presentation.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController

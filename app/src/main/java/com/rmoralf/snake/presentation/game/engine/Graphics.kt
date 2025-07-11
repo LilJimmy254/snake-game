@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.game.engine
+package com.JamesKariukiNderi.snake.presentation.game.engine
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border

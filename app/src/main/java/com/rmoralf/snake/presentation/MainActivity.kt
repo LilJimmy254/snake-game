@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation
+package com.JamesKariukiNderi.snake.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

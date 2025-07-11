@@ -1,4 +1,4 @@
-package com.rmoralf.snake.core.utils
+package com.JamesKariukiNderi.snake.core.utils
 
 import android.util.Log
 import com.rmoralf.snake.core.utils.Constants.TAG

@@ -1,4 +1,4 @@
-package com.rmoralf.snake.presentation.game.engine
+package com.JamesKariukiNderi.snake.presentation.game.engine
 
 import androidx.compose.runtime.mutableStateOf
 import com.rmoralf.snake.core.utils.Constants.SCREEN_SIZE
